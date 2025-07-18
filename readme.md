@@ -146,8 +146,6 @@ The application includes **real benchmark data** for 24 LLM models across 9 prov
 ### Cross-Region Inference
 When enabled, this feature allows you to access any Snowflake Cortex model regardless of its regional deployment by using Snowflake's cross-region inference capability. This means:
 - ✅ Access to all models regardless of location
-- ⚠️ Potential additional latency for cross-region calls
-- ⚠️ Possible additional costs for cross-region data transfer
 
 ### Provider "ALL" Option
 Select "ALL" in the provider filter to include models from all available providers for comprehensive comparison. This is useful when you want to see the complete landscape of available models without provider restrictions.
