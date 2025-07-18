@@ -1,5 +1,8 @@
 # 🧠 Cortex LLM Model Filter & Comparison Tool
 
+<img width="2899" height="1521" alt="image" src="https://github.com/user-attachments/assets/2a0a2afa-77d8-4403-8877-7a0e62084246" />
+
+
 A comprehensive Streamlit application for filtering and comparing Large Language Models (LLMs) available through Snowflake Cortex based on various criteria such as region availability, pricing, **real benchmark performance**, and capabilities.
 
 ## Features
